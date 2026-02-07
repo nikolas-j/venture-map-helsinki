@@ -1,6 +1,6 @@
 # Venture Map Helsinki
 
-This README describes the private reposiory for the following web app: Interactive map-based directory visualizing Helsinki's startup ecosystem. Browse companies, filter by industry and funding stage, and submit your own startup.
+This README describes the private repository for the following web app: Interactive map-based directory visualizing Helsinki's startup ecosystem. Browse companies, filter by industry and funding stage, and submit your own startup.
 
 **Live Application**: https://venture-map-helsinki.vercel.app
 
