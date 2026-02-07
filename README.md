@@ -4,7 +4,7 @@ This README describes the private repository for the following web app: Interact
 
 **Live Application**: https://venture-map-helsinki.vercel.app
 
-![web app screenshot](docs/venture-map-ss.png)
+![web app screenshot](venture-map-ss.png)
 
 ## Overview
 
